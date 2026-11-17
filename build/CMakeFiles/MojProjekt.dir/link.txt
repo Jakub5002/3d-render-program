@@ -1,1 +1,0 @@
-/usr/bin/c++  -pthread CMakeFiles/MojProjekt.dir/src/GUI.cpp.o CMakeFiles/MojProjekt.dir/src/GUIMyFrame1.cpp.o CMakeFiles/MojProjekt.dir/src/main.cpp.o CMakeFiles/MojProjekt.dir/src/vecmat.cpp.o -o MojProjekt  -L/usr/lib/x86_64-linux-gnu -pthread -lwx_gtk3u_core-3.2 -lwx_baseu-3.2 

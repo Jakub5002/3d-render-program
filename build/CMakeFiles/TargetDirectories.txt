@@ -1,3 +1,0 @@
-/root/Interfjsy/lab6/build/CMakeFiles/MojProjekt.dir
-/root/Interfjsy/lab6/build/CMakeFiles/edit_cache.dir
-/root/Interfjsy/lab6/build/CMakeFiles/rebuild_cache.dir
